@@ -1,0 +1,2 @@
+#!/bin/sh
+sudo -u owncloud php -f /opt/owncloud/cron.php > /dev/stdout 2>&1
